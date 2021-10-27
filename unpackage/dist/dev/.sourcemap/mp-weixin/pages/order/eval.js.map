@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///D:/APP/lianhexiustore/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,0F;AACAA,UAAU,CAACC,aAAD,CAAV,C","file":"pages/order/eval.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/order/eval.vue'\ncreatePage(Page)"],"sourceRoot":""}
